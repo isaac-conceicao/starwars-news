@@ -1,11 +1,12 @@
 ## Starwars News
-Welcome, young one! My goal on this project was to have fun while practicing the very basics of front-end development. This time we dive into de dark side of the DOM; it unveils hidden powers and elements that can be both intriguing and formidable.
+Welcome, young one! My goal on this project was to have fun while practicing the very basics of front-end development. This time we dive into de ~~Dark~~ Shadow side of the DOM; it unveils hidden powers and elements that can be both intriguing and formidable.
 
 ### Features
 
 - [x] Implement card-news as a Component;
-- [x] Use it as a custom html tag;
 - [x] Make it Reactive.
+- [x] Use Shadow DOM to attach trees;
+- [x] Custom HTML tag;
 
 ### Getting Started
 
